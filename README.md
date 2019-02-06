@@ -1,4 +1,4 @@
-# multithreadin_parllelism
+# multithreadin_parallelism
 Documents on Multithreading and parallelism
 
 
